@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author welcomm
+ *
+ */
+module basicsSimpleJavaPrograms {
+}
